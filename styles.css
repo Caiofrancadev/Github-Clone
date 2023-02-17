@@ -52,6 +52,7 @@ label{
     border-radius: var(--border-radius);
     text-decoration: none;
     display: inline-block;
+    cursor: pointer;
 }
 .btn-block{
     display: block;
